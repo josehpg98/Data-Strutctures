@@ -1,0 +1,26 @@
+MORADORES
+1;Maria da Rosa;3333333;40;F;
+2;Joâo Faria;4444444;42;M;
+3;Gabriela;76767633;35;F;
+4;Mario;4232323444;36;M;
+5;Ana;33300003;6;F;
+6;Fabio;44994;8;M;
+7;Elias;3666663;40;M;
+8;Carla;323232344;40;F;
+9;Juca;321212;46;M;
+10;Karina;432432;43;F;
+11;Giulia;9999333;10; F;
+12;Davi;44477774;8;M;
+13;Julia;3333555;32;F;
+14;Cristian;4444444555;33;M;
+15;Aline;33334233333;37;F;
+16;Alex;324234;38;M;
+17;Jose Henrique;991234;23;M;
+18;Joaquim Oliveira;954354;25;M
+CASAS
+1;Rua A;2;1;2;
+2;Rua B;3;3;4;5;
+3;Rua C;3;6;7;8;
+4;Rua D;4;9;10;11;12;
+5;Rua E;2;13;14;
+6;Rua F;2;15;16;

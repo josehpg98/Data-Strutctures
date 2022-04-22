@@ -1,0 +1,24 @@
+HABILIDADES
+1; super visão;
+2; super força;
+3; regeneração celular;
+4; super velocidade;
+5; controlar tempestades;
+6; controlar águas;
+7; voar;
+8; armas de fogo;
+9; telepatia;
+HEROIS
+1; Flash; 1; 2; 4; 0
+2; Raio Negro; 2; 3; 0 
+3; Homem de Ferro; 2; 6; 7; 0
+4; Thor; 2; 4; 8; 0
+5; Hulk; 2; 3; 0
+6; Batman; 1; 0
+EQUIPES
+1; 2; 3; 0
+1; 2; 3; 4; 5; 0 
+2; 4; 5; 0
+5; 0
+4; 5; 0 
+1; 2; 5; 0

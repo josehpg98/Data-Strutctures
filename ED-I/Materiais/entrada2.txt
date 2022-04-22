@@ -1,0 +1,14 @@
+TIPOS
+1; CACHORRO;
+2; GATO;
+3; CAVALO;
+ANIMAIS
+1; 1; Bela; 3; SRD; M;
+2; 2; Bob; 2; SRD; P;
+3; 2; Caco; 1; SRD; P;
+4; 1; Frida; 5; Border; G;
+5; 1; Mel; 1; Labrador; G;
+PROTETORES
+1; Maria dos Santos; 99999999; 1; 2; 0;
+2; João dos Santos; 88888888; 3; 4; 0;
+3; Carlos Farias; 777777; 5; 0;
